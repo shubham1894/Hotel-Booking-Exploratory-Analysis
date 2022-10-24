@@ -37,3 +37,5 @@ Capstone Project Exploratory Data Analysis on Hotel Booking
   - total_of_special_requests:- Total number of special request.
   - reservation_status:- Whether a customer has checked out or canceled,or not showed 
   - reservation_status_date:- Date of making reservation status.
+      - Total Number of rows in datsets - 119390
+      - Total Number of features presents - 32
