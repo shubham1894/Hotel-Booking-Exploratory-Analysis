@@ -40,6 +40,8 @@ Capstone Project Exploratory Data Analysis on Hotel Booking
       - Total Number of rows in datsets - 119390
       - Total Number of features presents - 32
 - ### Data Cleaning
+  - ### Removing Duplicates Values
+      - All duplicates rows were droped
   - ### Handling Null Values
       - Replacing Null values present in column *country* with other(OTH)
       - Replacing null values present in column *agent* and *company* with 0
