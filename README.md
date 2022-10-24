@@ -39,3 +39,9 @@ Capstone Project Exploratory Data Analysis on Hotel Booking
   - reservation_status_date:- Date of making reservation status.
       - Total Number of rows in datsets - 119390
       - Total Number of features presents - 32
+- ### Data Cleaning
+  - ### Handling Null Values
+      - Replacing Null values present in column *country* with other(OTH)
+      - Replacing null values present in column *agent* and *company* with 0
+      - Replacing null values present in column *children* with mode value of that column ie. 0
+      
