@@ -44,7 +44,7 @@ Capstone Project Exploratory Data Analysis on Hotel Booking
       - All duplicates rows were droped
   - ### Handling Null Values
       - Replacing Null values present in column *`country`* with other(OTH)
-      - Replacing null values present in column *`agent`* and *company* with 0
+      - Replacing null values present in column *`agent`* and *`company`* with 0
       - Replacing null values present in column *`children`* with mode value of that column ie. 0
   - ### Converting features into appropriate data type
       - Convert Data Type of features *`children`*, *`company`*, *`agent`* from float data type to integer data type.
